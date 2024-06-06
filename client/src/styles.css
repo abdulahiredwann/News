@@ -1,0 +1,25 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h2 {
+    color: #343a40;
+    margin-bottom: 30px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+.form-control {
+    margin-bottom: 15px;
+}
+
+.button {
+    width: 100%;
+}
